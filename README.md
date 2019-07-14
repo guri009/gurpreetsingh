@@ -1,6 +1,6 @@
 Professional Portfolio
 
-Please visit https://guri009.github.io/gurpreetsingh/
+Please visit https://smartguri.github.io/gurpreetsingh/
 
 Thanks for stopping by.
 
